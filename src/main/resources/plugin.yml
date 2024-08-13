@@ -1,5 +1,5 @@
 name: Ktrnds_Transport
-version: '1.0.0'
+version: '1.0.2'
 main: org.ktrnds.ktrnds_Transport.Ktrnds_Transport
 api-version: '1.21'
 commands:
