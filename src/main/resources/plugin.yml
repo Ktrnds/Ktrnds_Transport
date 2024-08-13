@@ -1,0 +1,13 @@
+name: Ktrnds_Transport
+version: '1.0.0'
+main: org.ktrnds.ktrnds_Transport.Ktrnds_Transport
+api-version: '1.21'
+commands:
+  connect:
+    description: "Connect to server"
+    usage: "/connect <Server> [Player]"
+  lobby:
+    description: "Back to lobby"
+    aliases:
+      - l
+      - hub
