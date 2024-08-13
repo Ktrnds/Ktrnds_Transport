@@ -28,7 +28,6 @@ public class Connect implements CommandExecutor {
           }
         }
 
-        sender.sendMessage(args[0]);
         ByteArrayDataOutput out = ByteStreams.newDataOutput();
         out.writeUTF("Connect");
         out.writeUTF(args[0]);
